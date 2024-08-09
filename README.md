@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 
-# Animated Testimonals
+# Animated Testimonials
 Language Uses: HTML, CSS
 ## ScreenShots
 ![Testi1](https://github.com/user-attachments/assets/57213846-dd86-4419-84a1-b284987a982b)
@@ -12,7 +12,7 @@ Language Uses: HTML, CSS
 
 ## Check Out The Website 👇
 
-Visit The Website🌐 [Animated Testimonals | Shayan Shah](https://shayanshahdeveloper.github.io/Project-28-Animated-Testimonals/)
+Visit The Website🌐 [Animated Testimonials | Shayan Shah](https://shayanshahdeveloper.github.io/Project-28-Animated-Testimonals/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
